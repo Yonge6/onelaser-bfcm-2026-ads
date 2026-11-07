@@ -8,7 +8,7 @@
 
 Review page with 中文 / EN toggle: https://yonge6.github.io/onelaser-bfcm-2026-ads/
 
-## 全部广告图 / All ad images (361)
+## 全部广告图 / All ad images (342)
 
 Grouped by product and checked against the real machines; failing and low-quality images were removed. Click a thumbnail for the full-size file.  
 按产品分组，已逐张对照真机筛查，不合格和品质不够的已删除。点缩略图看原图。
@@ -18,33 +18,14 @@ Grouped by product and checked against the real machines; failing and low-qualit
 <p>
 </p>
 
-### 品牌全产品线 · 最高省 $2,000（卖满 14 台后） / Brand lineup · up to $2,000 off (after 14 sold) (5)
+### 品牌全产品线 · 最高省 $2,000（卖满 14 台后） / Brand lineup · up to $2,000 off (after 14 sold) (0)
 
 <p>
-<a href="designs/full/Brand_After14/Brand_After14__1x1__Brand_After14_1x1_A.jpg"><img src="designs/thumb/Brand_After14/Brand_After14__1x1__Brand_After14_1x1_A.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand_After14/Brand_After14__1x1__Brand_After14_1x1_B.jpg"><img src="designs/thumb/Brand_After14/Brand_After14__1x1__Brand_After14_1x1_B.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand_After14/Brand_After14__1x1__Brand_After14_1x1_C.jpg"><img src="designs/thumb/Brand_After14/Brand_After14__1x1__Brand_After14_1x1_C.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand_After14/Brand_After14__1x1__native_queue_Brand_After14_1x1_B_v6_c74d4587e8ff.jpg"><img src="designs/thumb/Brand_After14/Brand_After14__1x1__native_queue_Brand_After14_1x1_B_v6_c74d4587e8ff.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand_After14/Brand_After14__1x1__native_queue_Brand_After14_1x1_C_v6_a1e6d26aebec.jpg"><img src="designs/thumb/Brand_After14/Brand_After14__1x1__native_queue_Brand_After14_1x1_C_v6_a1e6d26aebec.jpg" height="140" title="draft 1x1 campaign"></a>
 </p>
 
-### 工作室场景 · 全产品线 / Studio scenes · full lineup (14)
+### 工作室场景 · 全产品线 / Studio scenes · full lineup (0)
 
 <p>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__StudioScenes_1x1_A.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__StudioScenes_1x1_A.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__StudioScenes_1x1_B.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__StudioScenes_1x1_B.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__StudioScenes_1x1_C.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__StudioScenes_1x1_C.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__builtin_scene_StudioScenes_1x1_A_05816f881d1f.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__builtin_scene_StudioScenes_1x1_A_05816f881d1f.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__builtin_scene_StudioScenes_1x1_B_33d30b7cf5aa.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__builtin_scene_StudioScenes_1x1_B_33d30b7cf5aa.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__builtin_scene_StudioScenes_1x1_C_0b5897547065.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__builtin_scene_StudioScenes_1x1_C_0b5897547065.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__chatgpt_scene_StudioScenes_1x1_A_55d6e217c622.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__chatgpt_scene_StudioScenes_1x1_A_55d6e217c622.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__chatgpt_scene_StudioScenes_1x1_B_aaa32e7a6d8f.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__chatgpt_scene_StudioScenes_1x1_B_aaa32e7a6d8f.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__chatgpt_scene_StudioScenes_1x1_C_f6d6fb8503ed.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__chatgpt_scene_StudioScenes_1x1_C_f6d6fb8503ed.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__native_queue_StudioScenes_1x1_A_v6_builtin_r3_1de3c6be65d3.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__native_queue_StudioScenes_1x1_A_v6_builtin_r3_1de3c6be65d3.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__1x1__native_queue_StudioScenes_1x1_B_v6_builtin_r3_fd5247f00638.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__1x1__native_queue_StudioScenes_1x1_B_v6_builtin_r3_fd5247f00638.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__EDM__chatgpt_scene_StudioScenes_EDM_A_f3bbe8a657d6.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__EDM__chatgpt_scene_StudioScenes_EDM_A_f3bbe8a657d6.jpg" height="140" title="draft EDM campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__EDM__chatgpt_scene_StudioScenes_EDM_B_3faeb3a585d4.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__EDM__chatgpt_scene_StudioScenes_EDM_B_3faeb3a585d4.jpg" height="140" title="draft EDM campaign"></a>
-<a href="designs/full/StudioScenes/StudioScenes__EDM__chatgpt_scene_StudioScenes_EDM_C_5694d207d2e6.jpg"><img src="designs/thumb/StudioScenes/StudioScenes__EDM__chatgpt_scene_StudioScenes_EDM_C_5694d207d2e6.jpg" height="140" title="draft EDM campaign"></a>
 </p>
 
 ### 网站横幅 · $3,000 / Site banners · $3,000 (17)
