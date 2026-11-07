@@ -1,39 +1,21 @@
 # OneLaser BFCM 2026 · Ad creatives / 广告图
 
-**379 ad images, grouped by product** · screened against the real machines, failing and low-quality images deleted · all on-image text in English, prices and model names checked word by word.
+**All ad images, grouped by product** · screened against the real machines, failing and low-quality images deleted · all on-image text in English, prices and model names checked word by word.
 
-**379 张广告图，按产品分组** · 已逐张对照真机筛查，不合格和品质不够的已删除 · 图上文字全部英文，价格与型号已逐字核对。
+**全部广告图，按产品分组** · 已逐张对照真机筛查，不合格和品质不够的已删除 · 图上文字全部英文，价格与型号已逐字核对。
 
 **Download / 整包下载** (BFCM26 main creatives, 36 sets, all Meta / Google sizes): [Meta (ZIP)](https://github.com/Yonge6/onelaser-bfcm-2026-ads/raw/main/downloads/OneLaser_BFCM26_Meta_Ads.zip) · [Google (ZIP)](https://github.com/Yonge6/onelaser-bfcm-2026-ads/raw/main/downloads/OneLaser_BFCM26_Google_Ads.zip)
 
 Review page with 中文 / EN toggle: https://yonge6.github.io/onelaser-bfcm-2026-ads/
 
-## 全部广告图 / All ad images (379)
+## 全部广告图 / All ad images (361)
 
 Grouped by product and checked against the real machines; failing and low-quality images were removed. Click a thumbnail for the full-size file.  
 按产品分组，已逐张对照真机筛查，不合格和品质不够的已删除。点缩略图看原图。
 
-### 品牌全产品线 · 最高省 $3,000 / Brand lineup · up to $3,000 off (18)
+### 品牌全产品线 · 最高省 $3,000 / Brand lineup · up to $3,000 off (0)
 
 <p>
-<a href="designs/full/Brand/Brand__1x1__Brand_1x1_A.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_A.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__Brand_1x1_B.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_B.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__Brand_1x1_C.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_C.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__Brand_1x1_D__campaign.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_D__campaign.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__Brand_1x1_E__campaign.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_E__campaign.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__Brand_1x1_F__campaign.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_F__campaign.jpg" height="140" title="v6 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_a4413e0d0b77.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_a4413e0d0b77.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r10_builtin_vertigo_body_5873d449eed9.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r10_builtin_vertigo_body_5873d449eed9.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r2_5a281bf1748f.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r2_5a281bf1748f.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r3_builtin_fd59dcfc2bfa.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r3_builtin_fd59dcfc2bfa.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r4_builtin_xrf_fix_af497975a04d.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r4_builtin_xrf_fix_af497975a04d.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r5_builtin_vertigo_fix_29eaf3097e17.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r5_builtin_vertigo_fix_29eaf3097e17.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r6_builtin_vertigo_fix_e6705e9c4943.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r6_builtin_vertigo_fix_e6705e9c4943.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r7_builtin_hydra_fix_3079fbe271fa.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r7_builtin_hydra_fix_3079fbe271fa.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r8_builtin_vertigo_fix_9bdd1bcd49f4.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r8_builtin_vertigo_fix_9bdd1bcd49f4.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r9_builtin_vertigo_fix_edff62a5ef48.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_A_v6_r9_builtin_vertigo_fix_edff62a5ef48.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_B_v6_r2_32adbd25ac32.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_B_v6_r2_32adbd25ac32.jpg" height="140" title="draft 1x1 campaign"></a>
-<a href="designs/full/Brand/Brand__1x1__native_queue_Brand_1x1_C_v6_r2_80f2e72871a9.jpg"><img src="designs/thumb/Brand/Brand__1x1__native_queue_Brand_1x1_C_v6_r2_80f2e72871a9.jpg" height="140" title="draft 1x1 campaign"></a>
 </p>
 
 ### 品牌全产品线 · 最高省 $2,000（卖满 14 台后） / Brand lineup · up to $2,000 off (after 14 sold) (5)
