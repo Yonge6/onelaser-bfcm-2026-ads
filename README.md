@@ -130,14 +130,42 @@ Same copy as the Black Friday set. Light minimal layout that stands out among da
 <tr><td><sub>Brand, full lineup</sub></td><td><a href="images/1x1/BFCM26_mini_brand_1x1.png"><img src="images/1x1/BFCM26_mini_brand_1x1.png" height="150"></a></td><td><a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Meta_1080x1350.jpg"><img src="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Meta_1080x1350.jpg" height="150"></a></td><td><a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Meta_1080x1920.jpg"><img src="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Meta_1080x1920.jpg" height="150"></a></td><td><a href="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Google_1200x628.jpg"><img src="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Google_1200x628.jpg" height="150"></a></td></tr>
 </table>
 
-## 设计稿合集 / Design collection (385 screened)
+## 全部广告图 / All ad images (585 screened)
 
-All 435 images from the [preview design page](https://yonge6.github.io/onelaser-bfcm-2026-preview/designs/), screened against the real product renders. 50 rejected (see the end). Full-size JPGs are in [designs/full/](designs/full/).  
+Every image grouped by product: all sizes of the 50 main creatives (200) plus all 435 images from the [preview design page](https://yonge6.github.io/onelaser-bfcm-2026-preview/designs/), screened against the real product renders. 50 rejected (see the end). Full-size JPGs are in [designs/full/](designs/full/).  
 来自预览设计页的全部 435 张图，逐张对照真机筛查，淘汰 50 张（机器变形、比例不对、透视/抠图问题、Logo 错误）。原图 JPG 在 designs/full/。
 
-### 品牌全产品线 · 最高省 $3,000 / Brand lineup · up to $3,000 off (37)
+### 品牌全产品线 · 最高省 $3,000 / Brand lineup · up to $3,000 off (65)
 
 <p>
+<a href="images/1x1/BFCM26_brand_1x1.png"><img src="designs/thumb/own/BFCM26_brand_1x1.jpg" height="140" title="main 1x1 thanksgiving"></a>
+<a href="images/1x1/BFCM26_bf_brand_1x1.png"><img src="designs/thumb/own/BFCM26_bf_brand_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_engrave_brand_1x1.png"><img src="designs/thumb/own/BFCM26_engrave_brand_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_gold_brand_1x1.png"><img src="designs/thumb/own/BFCM26_gold_brand_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_mini_brand_1x1.png"><img src="designs/thumb/own/BFCM26_mini_brand_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_tag_brand_1x1.png"><img src="designs/thumb/own/BFCM26_tag_brand_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_cm_brand_1x1.png"><img src="designs/thumb/own/BFCM26_cm_brand_1x1.jpg" height="140" title="main 1x1 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_brand_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_brand_4x5.jpg" height="140" title="main 4x5 thanksgiving"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_brand_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_bf_brand_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_brand_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_engrave_brand_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_brand_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_gold_brand_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_mini_brand_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_brand_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_tag_brand_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_brand_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cm_brand_4x5.jpg" height="140" title="main 4x5 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_brand_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_brand_9x16.jpg" height="140" title="main 9x16 thanksgiving"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_brand_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_bf_brand_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_brand_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_engrave_brand_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_brand_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_gold_brand_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_mini_brand_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_brand_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_tag_brand_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_brand_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cm_brand_9x16.jpg" height="140" title="main 9x16 cyber_monday"></a>
+<a href="ads/Google/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_brand_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_brand_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving"></a>
+<a href="ads/Google/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_brand_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_bf_brand_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_brand_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_engrave_brand_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_brand_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_gold_brand_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_brand_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_mini_brand_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_brand_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_tag_brand_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_brand_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_brand_1.91x1.jpg" height="140" title="main 1.91x1 cyber_monday"></a>
 <a href="designs/full/Brand/Brand__1x1__Brand_1x1_A.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_A.jpg" height="140" title="v6 1x1 campaign"></a>
 <a href="designs/full/Brand/Brand__1x1__Brand_1x1_B.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_B.jpg" height="140" title="v6 1x1 campaign"></a>
 <a href="designs/full/Brand/Brand__1x1__Brand_1x1_C.jpg"><img src="designs/thumb/Brand/Brand__1x1__Brand_1x1_C.jpg" height="140" title="v6 1x1 campaign"></a>
@@ -295,9 +323,41 @@ All 435 images from the [preview design page](https://yonge6.github.io/onelaser-
 <a href="designs/full/Banner_After14/Banner_After14__Desktop__early_layout_prototype_BFCM26_Banner_After14_Desktop_C_v2_34df5a6621cb.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Desktop__early_layout_prototype_BFCM26_Banner_After14_Desktop_C_v2_34df5a6621cb.jpg" height="140" title="draft Desktop campaign"></a>
 </p>
 
-### XRF 38W RF / XRF 38W RF (48)
+### XRF 38W RF / XRF 38W RF (80)
 
 <p>
+<a href="images/1x1/BFCM26_xrf_1x1.png"><img src="designs/thumb/own/BFCM26_xrf_1x1.jpg" height="140" title="main 1x1 thanksgiving"></a>
+<a href="images/1x1/BFCM26_xrf_1x1_thanksgiving-day.png"><img src="designs/thumb/own/BFCM26_xrf_thanksgiving-day_1x1.jpg" height="140" title="main 1x1 thanksgiving_day"></a>
+<a href="images/1x1/BFCM26_bf_xrf_1x1.png"><img src="designs/thumb/own/BFCM26_bf_xrf_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_engrave_xrf_1x1.png"><img src="designs/thumb/own/BFCM26_engrave_xrf_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_gold_xrf_1x1.png"><img src="designs/thumb/own/BFCM26_gold_xrf_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_mini_xrf_1x1.png"><img src="designs/thumb/own/BFCM26_mini_xrf_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_tag_xrf_1x1.png"><img src="designs/thumb/own/BFCM26_tag_xrf_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_cm_xrf_1x1.png"><img src="designs/thumb/own/BFCM26_cm_xrf_1x1.jpg" height="140" title="main 1x1 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_xrf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_xrf_4x5.jpg" height="140" title="main 4x5 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_xrf_thanksgiving-day_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_xrf_thanksgiving-day_4x5.jpg" height="140" title="main 4x5 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_xrf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_bf_xrf_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_xrf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_engrave_xrf_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_xrf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_gold_xrf_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_xrf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_mini_xrf_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_xrf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_tag_xrf_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_xrf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cm_xrf_4x5.jpg" height="140" title="main 4x5 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_xrf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_xrf_9x16.jpg" height="140" title="main 9x16 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_xrf_thanksgiving-day_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_xrf_thanksgiving-day_9x16.jpg" height="140" title="main 9x16 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_xrf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_bf_xrf_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_xrf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_engrave_xrf_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_xrf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_gold_xrf_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_xrf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_mini_xrf_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_xrf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_tag_xrf_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_xrf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cm_xrf_9x16.jpg" height="140" title="main 9x16 cyber_monday"></a>
+<a href="ads/Google/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_xrf_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving"></a>
+<a href="ads/Google/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_xrf_thanksgiving-day_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_xrf_thanksgiving-day_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving_day"></a>
+<a href="ads/Google/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_bf_xrf_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_engrave_xrf_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_gold_xrf_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_mini_xrf_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_tag_xrf_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_xrf_1.91x1.jpg" height="140" title="main 1.91x1 cyber_monday"></a>
 <a href="designs/full/XRF38/XRF38__1x1__XRF38_1x1_A__thanksgiving.jpg"><img src="designs/thumb/XRF38/XRF38__1x1__XRF38_1x1_A__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/XRF38/XRF38__1x1__XRF38_1x1_B__thanksgiving.jpg"><img src="designs/thumb/XRF38/XRF38__1x1__XRF38_1x1_B__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/XRF38/XRF38__1x1__XRF38_1x1_C__thanksgiving.jpg"><img src="designs/thumb/XRF38/XRF38__1x1__XRF38_1x1_C__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
@@ -348,9 +408,41 @@ All 435 images from the [preview design page](https://yonge6.github.io/onelaser-
 <a href="designs/full/XRF38/XRF38__Google__early_layout_prototype_BFCM26_XRF38_Google_C_v2_2e1b1596c440.jpg"><img src="designs/thumb/XRF38/XRF38__Google__early_layout_prototype_BFCM26_XRF38_Google_C_v2_2e1b1596c440.jpg" height="140" title="draft Google campaign"></a>
 </p>
 
-### Hydra 7 Pro · 前 14 台 $7,999 / Hydra 7 Pro · first 14 units $7,999 (41)
+### Hydra 7 Pro · 前 14 台 $7,999 / Hydra 7 Pro · first 14 units $7,999 (73)
 
 <p>
+<a href="images/1x1/BFCM26_h7v1_1x1.png"><img src="designs/thumb/own/BFCM26_h7v1_1x1.jpg" height="140" title="main 1x1 thanksgiving"></a>
+<a href="images/1x1/BFCM26_h7v1_1x1_thanksgiving-day.png"><img src="designs/thumb/own/BFCM26_h7v1_thanksgiving-day_1x1.jpg" height="140" title="main 1x1 thanksgiving_day"></a>
+<a href="images/1x1/BFCM26_bf_h7v1_1x1.png"><img src="designs/thumb/own/BFCM26_bf_h7v1_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_engrave_h7v1_1x1.png"><img src="designs/thumb/own/BFCM26_engrave_h7v1_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_gold_h7v1_1x1.png"><img src="designs/thumb/own/BFCM26_gold_h7v1_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_mini_h7v1_1x1.png"><img src="designs/thumb/own/BFCM26_mini_h7v1_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_tag_h7v1_1x1.png"><img src="designs/thumb/own/BFCM26_tag_h7v1_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_cm_h7v1_1x1.png"><img src="designs/thumb/own/BFCM26_cm_h7v1_1x1.jpg" height="140" title="main 1x1 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h7v1_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_h7v1_4x5.jpg" height="140" title="main 4x5 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_h7v1_thanksgiving-day_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_h7v1_thanksgiving-day_4x5.jpg" height="140" title="main 4x5 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v1_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v1_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v1_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v1_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v1_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v1_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v1_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v1_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v1_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v1_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v1_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v1_4x5.jpg" height="140" title="main 4x5 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h7v1_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_h7v1_9x16.jpg" height="140" title="main 9x16 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_h7v1_thanksgiving-day_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_h7v1_thanksgiving-day_9x16.jpg" height="140" title="main 9x16 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v1_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v1_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v1_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v1_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v1_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v1_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v1_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v1_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v1_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v1_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v1_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v1_9x16.jpg" height="140" title="main 9x16 cyber_monday"></a>
+<a href="ads/Google/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h7v1_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_h7v1_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving"></a>
+<a href="ads/Google/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_h7v1_thanksgiving-day_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_h7v1_thanksgiving-day_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving_day"></a>
+<a href="ads/Google/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v1_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v1_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v1_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v1_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v1_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v1_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v1_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v1_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v1_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v1_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v1_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v1_1.91x1.jpg" height="140" title="main 1.91x1 cyber_monday"></a>
 <a href="designs/full/Hydra07_S1/Hydra07_S1__1x1__Hydra07_S1_1x1_A__thanksgiving.jpg"><img src="designs/thumb/Hydra07_S1/Hydra07_S1__1x1__Hydra07_S1_1x1_A__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/Hydra07_S1/Hydra07_S1__1x1__Hydra07_S1_1x1_B__thanksgiving.jpg"><img src="designs/thumb/Hydra07_S1/Hydra07_S1__1x1__Hydra07_S1_1x1_B__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/Hydra07_S1/Hydra07_S1__1x1__Hydra07_S1_1x1_C__thanksgiving.jpg"><img src="designs/thumb/Hydra07_S1/Hydra07_S1__1x1__Hydra07_S1_1x1_C__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
@@ -394,9 +486,41 @@ All 435 images from the [preview design page](https://yonge6.github.io/onelaser-
 <a href="designs/full/Hydra07_S1/Hydra07_S1__Google__early_layout_prototype_BFCM26_Hydra07_S1_Google_C_v2_a3ea13087367.jpg"><img src="designs/thumb/Hydra07_S1/Hydra07_S1__Google__early_layout_prototype_BFCM26_Hydra07_S1_Google_C_v2_a3ea13087367.jpg" height="140" title="draft Google campaign"></a>
 </p>
 
-### Hydra 7 Pro · 卖满 14 台后 $8,999 / Hydra 7 Pro · after 14 sold $8,999 (41)
+### Hydra 7 Pro · 卖满 14 台后 $8,999 / Hydra 7 Pro · after 14 sold $8,999 (73)
 
 <p>
+<a href="images/1x1/BFCM26_h7v2_1x1.png"><img src="designs/thumb/own/BFCM26_h7v2_1x1.jpg" height="140" title="main 1x1 thanksgiving"></a>
+<a href="images/1x1/BFCM26_h7v2_1x1_thanksgiving-day.png"><img src="designs/thumb/own/BFCM26_h7v2_thanksgiving-day_1x1.jpg" height="140" title="main 1x1 thanksgiving_day"></a>
+<a href="images/1x1/BFCM26_bf_h7v2_1x1.png"><img src="designs/thumb/own/BFCM26_bf_h7v2_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_engrave_h7v2_1x1.png"><img src="designs/thumb/own/BFCM26_engrave_h7v2_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_gold_h7v2_1x1.png"><img src="designs/thumb/own/BFCM26_gold_h7v2_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_mini_h7v2_1x1.png"><img src="designs/thumb/own/BFCM26_mini_h7v2_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_tag_h7v2_1x1.png"><img src="designs/thumb/own/BFCM26_tag_h7v2_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_cm_h7v2_1x1.png"><img src="designs/thumb/own/BFCM26_cm_h7v2_1x1.jpg" height="140" title="main 1x1 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h7v2_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_h7v2_4x5.jpg" height="140" title="main 4x5 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_h7v2_thanksgiving-day_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_h7v2_thanksgiving-day_4x5.jpg" height="140" title="main 4x5 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v2_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v2_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v2_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v2_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v2_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v2_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v2_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v2_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v2_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v2_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v2_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v2_4x5.jpg" height="140" title="main 4x5 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h7v2_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_h7v2_9x16.jpg" height="140" title="main 9x16 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_h7v2_thanksgiving-day_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_h7v2_thanksgiving-day_9x16.jpg" height="140" title="main 9x16 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v2_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v2_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v2_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v2_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v2_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v2_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v2_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v2_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v2_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v2_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v2_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v2_9x16.jpg" height="140" title="main 9x16 cyber_monday"></a>
+<a href="ads/Google/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_h7v2_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving"></a>
+<a href="ads/Google/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_h7v2_thanksgiving-day_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_h7v2_thanksgiving-day_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving_day"></a>
+<a href="ads/Google/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v2_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v2_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v2_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v2_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v2_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v2_1.91x1.jpg" height="140" title="main 1.91x1 cyber_monday"></a>
 <a href="designs/full/Hydra07_S2/Hydra07_S2__1x1__Hydra07_S2_1x1_A__thanksgiving.jpg"><img src="designs/thumb/Hydra07_S2/Hydra07_S2__1x1__Hydra07_S2_1x1_A__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/Hydra07_S2/Hydra07_S2__1x1__Hydra07_S2_1x1_B__thanksgiving.jpg"><img src="designs/thumb/Hydra07_S2/Hydra07_S2__1x1__Hydra07_S2_1x1_B__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/Hydra07_S2/Hydra07_S2__1x1__Hydra07_S2_1x1_C__thanksgiving.jpg"><img src="designs/thumb/Hydra07_S2/Hydra07_S2__1x1__Hydra07_S2_1x1_C__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
@@ -440,9 +564,41 @@ All 435 images from the [preview design page](https://yonge6.github.io/onelaser-
 <a href="designs/full/Hydra07_S2/Hydra07_S2__Google__early_layout_prototype_BFCM26_Hydra07_S2_Google_C_v2_819fb4696924.jpg"><img src="designs/thumb/Hydra07_S2/Hydra07_S2__Google__early_layout_prototype_BFCM26_Hydra07_S2_Google_C_v2_819fb4696924.jpg" height="140" title="draft Google campaign"></a>
 </p>
 
-### Cobra 三款 / Cobra lineup (26)
+### Cobra 三款 / Cobra lineup (58)
 
 <p>
+<a href="images/1x1/BFCM26_cobra_1x1.png"><img src="designs/thumb/own/BFCM26_cobra_1x1.jpg" height="140" title="main 1x1 thanksgiving"></a>
+<a href="images/1x1/BFCM26_cobra_1x1_thanksgiving-day.png"><img src="designs/thumb/own/BFCM26_cobra_thanksgiving-day_1x1.jpg" height="140" title="main 1x1 thanksgiving_day"></a>
+<a href="images/1x1/BFCM26_bf_cobra_1x1.png"><img src="designs/thumb/own/BFCM26_bf_cobra_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_engrave_cobra_1x1.png"><img src="designs/thumb/own/BFCM26_engrave_cobra_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_gold_cobra_1x1.png"><img src="designs/thumb/own/BFCM26_gold_cobra_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_mini_cobra_1x1.png"><img src="designs/thumb/own/BFCM26_mini_cobra_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_tag_cobra_1x1.png"><img src="designs/thumb/own/BFCM26_tag_cobra_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_cm_cobra_1x1.png"><img src="designs/thumb/own/BFCM26_cm_cobra_1x1.jpg" height="140" title="main 1x1 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_cobra_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cobra_4x5.jpg" height="140" title="main 4x5 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_cobra_thanksgiving-day_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cobra_thanksgiving-day_4x5.jpg" height="140" title="main 4x5 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_cobra_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_bf_cobra_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_cobra_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_engrave_cobra_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_cobra_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_gold_cobra_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_cobra_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_mini_cobra_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_cobra_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_tag_cobra_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_cobra_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cm_cobra_4x5.jpg" height="140" title="main 4x5 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_cobra_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cobra_9x16.jpg" height="140" title="main 9x16 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_cobra_thanksgiving-day_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cobra_thanksgiving-day_9x16.jpg" height="140" title="main 9x16 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_cobra_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_bf_cobra_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_cobra_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_engrave_cobra_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_cobra_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_gold_cobra_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_cobra_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_mini_cobra_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_cobra_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_tag_cobra_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_cobra_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cm_cobra_9x16.jpg" height="140" title="main 9x16 cyber_monday"></a>
+<a href="ads/Google/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cobra_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving"></a>
+<a href="ads/Google/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_cobra_thanksgiving-day_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cobra_thanksgiving-day_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving_day"></a>
+<a href="ads/Google/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_bf_cobra_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_engrave_cobra_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_gold_cobra_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_mini_cobra_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_tag_cobra_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_cobra_1.91x1.jpg" height="140" title="main 1.91x1 cyber_monday"></a>
 <a href="designs/full/Cobra/Cobra__1x1__Cobra_1x1_A__thanksgiving.jpg"><img src="designs/thumb/Cobra/Cobra__1x1__Cobra_1x1_A__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/Cobra/Cobra__1x1__Cobra_1x1_B__thanksgiving.jpg"><img src="designs/thumb/Cobra/Cobra__1x1__Cobra_1x1_B__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/Cobra/Cobra__1x1__Cobra_1x1_C__thanksgiving.jpg"><img src="designs/thumb/Cobra/Cobra__1x1__Cobra_1x1_C__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
@@ -471,9 +627,41 @@ All 435 images from the [preview design page](https://yonge6.github.io/onelaser-
 <a href="designs/full/Cobra/Cobra__1x1__native_queue_Cobra_1x1_B__thanksgiving_v6_builtin_r1_53bcca7d268a.jpg"><img src="designs/thumb/Cobra/Cobra__1x1__native_queue_Cobra_1x1_B__thanksgiving_v6_builtin_r1_53bcca7d268a.jpg" height="140" title="draft 1x1 thanksgiving"></a>
 </p>
 
-### VertiGo 38W RF / VertiGo 38W RF (61)
+### VertiGo 38W RF / VertiGo 38W RF (93)
 
 <p>
+<a href="images/1x1/BFCM26_vtg_1x1.png"><img src="designs/thumb/own/BFCM26_vtg_1x1.jpg" height="140" title="main 1x1 thanksgiving"></a>
+<a href="images/1x1/BFCM26_vtg_1x1_thanksgiving-day.png"><img src="designs/thumb/own/BFCM26_vtg_thanksgiving-day_1x1.jpg" height="140" title="main 1x1 thanksgiving_day"></a>
+<a href="images/1x1/BFCM26_bf_vtg_1x1.png"><img src="designs/thumb/own/BFCM26_bf_vtg_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_engrave_vtg_1x1.png"><img src="designs/thumb/own/BFCM26_engrave_vtg_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_gold_vtg_1x1.png"><img src="designs/thumb/own/BFCM26_gold_vtg_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_mini_vtg_1x1.png"><img src="designs/thumb/own/BFCM26_mini_vtg_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_tag_vtg_1x1.png"><img src="designs/thumb/own/BFCM26_tag_vtg_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_cm_vtg_1x1.png"><img src="designs/thumb/own/BFCM26_cm_vtg_1x1.jpg" height="140" title="main 1x1 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_vtg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_vtg_4x5.jpg" height="140" title="main 4x5 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_vtg_thanksgiving-day_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_vtg_thanksgiving-day_4x5.jpg" height="140" title="main 4x5 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_vtg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_bf_vtg_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_vtg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_engrave_vtg_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_vtg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_gold_vtg_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_vtg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_mini_vtg_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_vtg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_tag_vtg_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_vtg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cm_vtg_4x5.jpg" height="140" title="main 4x5 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_vtg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_vtg_9x16.jpg" height="140" title="main 9x16 thanksgiving"></a>
+<a href="ads/Meta/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_vtg_thanksgiving-day_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_vtg_thanksgiving-day_9x16.jpg" height="140" title="main 9x16 thanksgiving_day"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_vtg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_bf_vtg_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_vtg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_engrave_vtg_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_vtg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_gold_vtg_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_vtg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_mini_vtg_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_vtg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_tag_vtg_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_vtg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cm_vtg_9x16.jpg" height="140" title="main 9x16 cyber_monday"></a>
+<a href="ads/Google/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_vtg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_vtg_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving"></a>
+<a href="ads/Google/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_vtg_thanksgiving-day_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_vtg_thanksgiving-day_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving_day"></a>
+<a href="ads/Google/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_vtg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_bf_vtg_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_vtg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_engrave_vtg_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_vtg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_gold_vtg_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_vtg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_mini_vtg_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_vtg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_tag_vtg_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_vtg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_vtg_1.91x1.jpg" height="140" title="main 1.91x1 cyber_monday"></a>
 <a href="designs/full/VertiGo/VertiGo__1x1__VertiGo_1x1_A__thanksgiving.jpg"><img src="designs/thumb/VertiGo/VertiGo__1x1__VertiGo_1x1_A__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/VertiGo/VertiGo__1x1__VertiGo_1x1_B__thanksgiving.jpg"><img src="designs/thumb/VertiGo/VertiGo__1x1__VertiGo_1x1_B__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
 <a href="designs/full/VertiGo/VertiGo__1x1__VertiGo_1x1_C__thanksgiving.jpg"><img src="designs/thumb/VertiGo/VertiGo__1x1__VertiGo_1x1_C__thanksgiving.jpg" height="140" title="v6 1x1 thanksgiving"></a>
@@ -537,9 +725,21 @@ All 435 images from the [preview design page](https://yonge6.github.io/onelaser-
 <a href="designs/full/VertiGo/VertiGo__Google__early_layout_prototype_BFCM26_VertiGo_Google_C_v2_df33848ff473.jpg"><img src="designs/thumb/VertiGo/VertiGo__Google__early_layout_prototype_BFCM26_VertiGo_Google_C_v2_df33848ff473.jpg" height="140" title="draft Google campaign"></a>
 </p>
 
-### Hydra 9 Hybrid / Hydra 9 Hybrid (33)
+### Hydra 9 Hybrid / Hydra 9 Hybrid (45)
 
 <p>
+<a href="images/1x1/BFCM26_h9_1x1.png"><img src="designs/thumb/own/BFCM26_h9_1x1.jpg" height="140" title="main 1x1 thanksgiving"></a>
+<a href="images/1x1/BFCM26_bf_h9_1x1.png"><img src="designs/thumb/own/BFCM26_bf_h9_1x1.jpg" height="140" title="main 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_cm_h9_1x1.png"><img src="designs/thumb/own/BFCM26_cm_h9_1x1.jpg" height="140" title="main 1x1 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h9_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_h9_4x5.jpg" height="140" title="main 4x5 thanksgiving"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h9_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_bf_h9_4x5.jpg" height="140" title="main 4x5 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h9_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_cm_h9_4x5.jpg" height="140" title="main 4x5 cyber_monday"></a>
+<a href="ads/Meta/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h9_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_h9_9x16.jpg" height="140" title="main 9x16 thanksgiving"></a>
+<a href="ads/Meta/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h9_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_bf_h9_9x16.jpg" height="140" title="main 9x16 black_friday"></a>
+<a href="ads/Meta/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h9_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_cm_h9_9x16.jpg" height="140" title="main 9x16 cyber_monday"></a>
+<a href="ads/Google/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_h9_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_h9_1.91x1.jpg" height="140" title="main 1.91x1 thanksgiving"></a>
+<a href="ads/Google/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h9_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_bf_h9_1.91x1.jpg" height="140" title="main 1.91x1 black_friday"></a>
+<a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h9_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_h9_1.91x1.jpg" height="140" title="main 1.91x1 cyber_monday"></a>
 <a href="designs/full/Hydra09Hybrid/Hydra09Hybrid__1x1__Hydra09Hybrid_1x1_A.jpg"><img src="designs/thumb/Hydra09Hybrid/Hydra09Hybrid__1x1__Hydra09Hybrid_1x1_A.jpg" height="140" title="v6 1x1 evergreen"></a>
 <a href="designs/full/Hydra09Hybrid/Hydra09Hybrid__1x1__Hydra09Hybrid_1x1_B.jpg"><img src="designs/thumb/Hydra09Hybrid/Hydra09Hybrid__1x1__Hydra09Hybrid_1x1_B.jpg" height="140" title="v6 1x1 evergreen"></a>
 <a href="designs/full/Hydra09Hybrid/Hydra09Hybrid__1x1__Hydra09Hybrid_1x1_C.jpg"><img src="designs/thumb/Hydra09Hybrid/Hydra09Hybrid__1x1__Hydra09Hybrid_1x1_C.jpg" height="140" title="v6 1x1 evergreen"></a>
