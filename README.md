@@ -8,7 +8,7 @@
 
 Review page with 中文 / EN toggle: https://yonge6.github.io/onelaser-bfcm-2026-ads/
 
-## 全部广告图 / All ad images (342)
+## 全部广告图 / All ad images (334)
 
 Grouped by product and checked against the real machines; failing and low-quality images were removed. Click a thumbnail for the full-size file.  
 按产品分组，已逐张对照真机筛查，不合格和品质不够的已删除。点缩略图看原图。
@@ -28,7 +28,7 @@ Grouped by product and checked against the real machines; failing and low-qualit
 <p>
 </p>
 
-### 网站横幅 · $3,000 / Site banners · $3,000 (17)
+### 网站横幅 · $3,000 / Site banners · $3,000 (12)
 
 <p>
 <a href="designs/full/Banner/Banner__Mobile__Banner_Mobile_A__thanksgiving.jpg"><img src="designs/thumb/Banner/Banner__Mobile__Banner_Mobile_A__thanksgiving.jpg" height="140" title="v6 Mobile thanksgiving"></a>
@@ -43,14 +43,9 @@ Grouped by product and checked against the real machines; failing and low-qualit
 <a href="designs/full/Banner/Banner__Mobile__Banner_Mobile_A__cyber_monday.jpg"><img src="designs/thumb/Banner/Banner__Mobile__Banner_Mobile_A__cyber_monday.jpg" height="140" title="v6 Mobile cyber_monday"></a>
 <a href="designs/full/Banner/Banner__Mobile__Banner_Mobile_B__cyber_monday.jpg"><img src="designs/thumb/Banner/Banner__Mobile__Banner_Mobile_B__cyber_monday.jpg" height="140" title="v6 Mobile cyber_monday"></a>
 <a href="designs/full/Banner/Banner__Mobile__Banner_Mobile_C__cyber_monday.jpg"><img src="designs/thumb/Banner/Banner__Mobile__Banner_Mobile_C__cyber_monday.jpg" height="140" title="v6 Mobile cyber_monday"></a>
-<a href="designs/full/Banner/Banner__Mobile__native_queue_Banner_Mobile_A__thanksgiving_day_v6_95eafd5b17e1.jpg"><img src="designs/thumb/Banner/Banner__Mobile__native_queue_Banner_Mobile_A__thanksgiving_day_v6_95eafd5b17e1.jpg" height="140" title="draft Mobile thanksgiving"></a>
-<a href="designs/full/Banner/Banner__Mobile__native_queue_Banner_Mobile_A__thanksgiving_v6_f0098419584e.jpg"><img src="designs/thumb/Banner/Banner__Mobile__native_queue_Banner_Mobile_A__thanksgiving_v6_f0098419584e.jpg" height="140" title="draft Mobile thanksgiving"></a>
-<a href="designs/full/Banner/Banner__Mobile__native_queue_Banner_Mobile_B__thanksgiving_v6_ffa57cf4f121.jpg"><img src="designs/thumb/Banner/Banner__Mobile__native_queue_Banner_Mobile_B__thanksgiving_v6_ffa57cf4f121.jpg" height="140" title="draft Mobile thanksgiving"></a>
-<a href="designs/full/Banner/Banner__Mobile__native_queue_Banner_Mobile_C__thanksgiving_day_v6_3277be8714ae.jpg"><img src="designs/thumb/Banner/Banner__Mobile__native_queue_Banner_Mobile_C__thanksgiving_day_v6_3277be8714ae.jpg" height="140" title="draft Mobile thanksgiving"></a>
-<a href="designs/full/Banner/Banner__Mobile__native_queue_Banner_Mobile_C__thanksgiving_v6_dbe3889e8ded.jpg"><img src="designs/thumb/Banner/Banner__Mobile__native_queue_Banner_Mobile_C__thanksgiving_v6_dbe3889e8ded.jpg" height="140" title="draft Mobile thanksgiving"></a>
 </p>
 
-### 网站横幅 · $2,000（卖满 14 台后） / Site banners · $2,000 (after 14 sold) (15)
+### 网站横幅 · $2,000（卖满 14 台后） / Site banners · $2,000 (after 14 sold) (12)
 
 <p>
 <a href="designs/full/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_A__thanksgiving.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_A__thanksgiving.jpg" height="140" title="v6 Mobile thanksgiving"></a>
@@ -65,9 +60,6 @@ Grouped by product and checked against the real machines; failing and low-qualit
 <a href="designs/full/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_A__cyber_monday.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_A__cyber_monday.jpg" height="140" title="v6 Mobile cyber_monday"></a>
 <a href="designs/full/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_B__cyber_monday.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_B__cyber_monday.jpg" height="140" title="v6 Mobile cyber_monday"></a>
 <a href="designs/full/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_C__cyber_monday.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Mobile__Banner_After14_Mobile_C__cyber_monday.jpg" height="140" title="v6 Mobile cyber_monday"></a>
-<a href="designs/full/Banner_After14/Banner_After14__Mobile__native_queue_Banner_After14_Mobile_A__thanksgiving_v6_c5db2985c3f1.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Mobile__native_queue_Banner_After14_Mobile_A__thanksgiving_v6_c5db2985c3f1.jpg" height="140" title="draft Mobile thanksgiving"></a>
-<a href="designs/full/Banner_After14/Banner_After14__Mobile__native_queue_Banner_After14_Mobile_B__thanksgiving_v6_12fea4fe2dd7.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Mobile__native_queue_Banner_After14_Mobile_B__thanksgiving_v6_12fea4fe2dd7.jpg" height="140" title="draft Mobile thanksgiving"></a>
-<a href="designs/full/Banner_After14/Banner_After14__Mobile__native_queue_Banner_After14_Mobile_C__thanksgiving_v6_5b0b87dd3c80.jpg"><img src="designs/thumb/Banner_After14/Banner_After14__Mobile__native_queue_Banner_After14_Mobile_C__thanksgiving_v6_5b0b87dd3c80.jpg" height="140" title="draft Mobile thanksgiving"></a>
 </p>
 
 ### XRF 38W RF / XRF 38W RF (68)
