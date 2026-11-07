@@ -4,26 +4,26 @@
 
 **按设计交付清单排列** · 已逐张对照真机筛查，不合格和品质不够的已删除 · 图上文字全部英文，价格与型号已逐字核对。
 
-**Download / 整包下载** (BFCM26 main creatives, 36 sets, all Meta / Google sizes): [Meta (ZIP)](https://github.com/Yonge6/onelaser-bfcm-2026-ads/raw/main/downloads/OneLaser_BFCM26_Meta_Ads.zip) · [Google (ZIP)](https://github.com/Yonge6/onelaser-bfcm-2026-ads/raw/main/downloads/OneLaser_BFCM26_Google_Ads.zip)
+**Download / 整包下载** (BFCM26 main creatives, 42 sets, all Meta / Google sizes): [Meta (ZIP)](https://github.com/Yonge6/onelaser-bfcm-2026-ads/raw/main/downloads/OneLaser_BFCM26_Meta_Ads.zip) · [Google (ZIP)](https://github.com/Yonge6/onelaser-bfcm-2026-ads/raw/main/downloads/OneLaser_BFCM26_Google_Ads.zip) · [EDM (ZIP)](https://github.com/Yonge6/onelaser-bfcm-2026-ads/raw/main/downloads/OneLaser_BFCM26_EDM.zip)
 
 Review page with 中文 / EN toggle: https://yonge6.github.io/onelaser-bfcm-2026-ads/
 
-## 按交付清单 / By delivery checklist (334 images)
+## 按交付清单 / By delivery checklist (400 images)
 
 | 素材组 / Group | 核心信息 | 必备尺寸 · 现有张数 / Sizes · images |
 |---|---|---|
-| [XRF 38W RF](#xrf38) | SUPER Deal · 两档套装 · 限量 | Meta 1:1: 42 · 4:5: 9 · 9:16 Story/Reels: 9 · Google 1.91:1: 8 · EDM: 缺 missing |
-| [Hydra 07 Pro (G2)](#hydra07) | SUPER Deal · 前 14 台 · 最强 RF | Meta 1:1: 60 · 4:5: 12 · 9:16 Story/Reels: 12 · Google 1.91:1: 12 · EDM: 缺 missing |
-| [Hydra 09 Hybrid](#hydra09) | Best Seller · 现货 · 不打折也值得 | Meta 1:1: 11 · 4:5: 5 · 9:16 Story/Reels: 5 · Google 1.91:1: 5 · EDM: 3 |
-| [VertiGo](#vertigo) | Deal · 立式新品 · 包邮 | Meta 1:1: 41 · 4:5: 15 · 9:16 Story/Reels: 11 · Google 1.91:1: 11 · EDM: 3 |
-| [Cobra](#cobra) | Deal · 罕见折扣 | Meta 1:1: 18 · 4:5: 6 · 9:16 Story/Reels: 6 · Google 1.91:1: 6 · EDM: 缺 missing |
-| [品牌全产品线 / Brand lineup](#brand) | Best Laser Deals of 2026 · 全线一图 | Meta 1:1: 缺 missing · 4:5: 缺 missing · 9:16 Story/Reels: 缺 missing · Google 1.91:1: 缺 missing · EDM: 缺 missing |
+| [XRF 38W RF](#xrf38) | SUPER Deal · 两档套装 · 限量 | Meta 1:1: 42 · 4:5: 9 · 9:16 Story/Reels: 9 · Google 1.91:1: 8 · EDM: 8 |
+| [Hydra 07 Pro (G2)](#hydra07) | SUPER Deal · 前 14 台 · 最强 RF | Meta 1:1: 60 · 4:5: 12 · 9:16 Story/Reels: 12 · Google 1.91:1: 12 · EDM: 12 |
+| [Hydra 09 Hybrid](#hydra09) | Best Seller · 现货 · 不打折也值得 | Meta 1:1: 11 · 4:5: 5 · 9:16 Story/Reels: 5 · Google 1.91:1: 5 · EDM: 5 |
+| [VertiGo](#vertigo) | Deal · 立式新品 · 包邮 | Meta 1:1: 41 · 4:5: 15 · 9:16 Story/Reels: 11 · Google 1.91:1: 11 · EDM: 11 |
+| [Cobra](#cobra) | Deal · 罕见折扣 | Meta 1:1: 18 · 4:5: 6 · 9:16 Story/Reels: 6 · Google 1.91:1: 6 · EDM: 6 |
+| [品牌全产品线 / Brand lineup](#brand) | Best Laser Deals of 2026 · 全线一图 | Meta 1:1: 6 · 4:5: 6 · 9:16 Story/Reels: 6 · Google 1.91:1: 6 · EDM: 6 |
 | [官网 Banner / Site banner](#banner) | 酷 · 动态 · 倒计时 | 官网 桌面 + 手机 / Desktop + mobile: 24 |
 
 Every image was screened against the real machines; failing ones were deleted. Click a thumbnail for the full-size file.  
 已逐张对照真机筛查，不合格的已删除。点缩略图看原图。
 
-<h3 id="xrf38">XRF 38W RF (68)</h3>
+<h3 id="xrf38">XRF 38W RF (76)</h3>
 
 SUPER Deal · 两档套装 · 限量
 
@@ -115,7 +115,20 @@ SUPER Deal · 两档套装 · 限量
 <a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_xrf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_xrf_1.91x1.jpg" height="140" title=" 1.91x1 cyber_monday"></a>
 </p>
 
-<h3 id="hydra07">Hydra 07 Pro (G2) (96)</h3>
+**EDM · 8**
+
+<p>
+<a href="ads/EDM/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_xrf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_xrf_EDM.jpg" height="140" title=" EDM thanksgiving"></a>
+<a href="ads/EDM/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_xrf_thanksgiving-day_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_xrf_thanksgiving-day_EDM.jpg" height="140" title=" EDM thanksgiving_day"></a>
+<a href="ads/EDM/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_xrf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_bf_xrf_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_xrf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_engrave_xrf_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_xrf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_gold_xrf_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_xrf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_mini_xrf_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_xrf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_tag_xrf_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_xrf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_cm_xrf_EDM.jpg" height="140" title=" EDM cyber_monday"></a>
+</p>
+
+<h3 id="hydra07">Hydra 07 Pro (G2) (108)</h3>
 
 SUPER Deal · 前 14 台 · 最强 RF
 
@@ -235,7 +248,24 @@ SUPER Deal · 前 14 台 · 最强 RF
 <a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v2_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v2_1.91x1.jpg" height="140" title="After 14 sold · $8,999 1.91x1 cyber_monday"></a>
 </p>
 
-<h3 id="hydra09">Hydra 09 Hybrid (29)</h3>
+**EDM · 12**
+
+<p>
+<a href="ads/EDM/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v1_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v1_EDM.jpg" height="140" title="First 14 · $7,999 EDM black_friday"></a>
+<a href="ads/EDM/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v1_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v1_EDM.jpg" height="140" title="First 14 · $7,999 EDM black_friday"></a>
+<a href="ads/EDM/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v1_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v1_EDM.jpg" height="140" title="First 14 · $7,999 EDM black_friday"></a>
+<a href="ads/EDM/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v1_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v1_EDM.jpg" height="140" title="First 14 · $7,999 EDM black_friday"></a>
+<a href="ads/EDM/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v1_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v1_EDM.jpg" height="140" title="First 14 · $7,999 EDM black_friday"></a>
+<a href="ads/EDM/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v1_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v1_EDM.jpg" height="140" title="First 14 · $7,999 EDM cyber_monday"></a>
+<a href="ads/EDM/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h7v2_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_bf_h7v2_EDM.jpg" height="140" title="After 14 sold · $8,999 EDM black_friday"></a>
+<a href="ads/EDM/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_h7v2_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_engrave_h7v2_EDM.jpg" height="140" title="After 14 sold · $8,999 EDM black_friday"></a>
+<a href="ads/EDM/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_h7v2_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_gold_h7v2_EDM.jpg" height="140" title="After 14 sold · $8,999 EDM black_friday"></a>
+<a href="ads/EDM/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_h7v2_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_mini_h7v2_EDM.jpg" height="140" title="After 14 sold · $8,999 EDM black_friday"></a>
+<a href="ads/EDM/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_h7v2_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_tag_h7v2_EDM.jpg" height="140" title="After 14 sold · $8,999 EDM black_friday"></a>
+<a href="ads/EDM/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h7v2_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_cm_h7v2_EDM.jpg" height="140" title="After 14 sold · $8,999 EDM cyber_monday"></a>
+</p>
+
+<h3 id="hydra09">Hydra 09 Hybrid (31)</h3>
 
 Best Seller · 现货 · 不打折也值得
 
@@ -285,15 +315,17 @@ Best Seller · 现货 · 不打折也值得
 <a href="designs/full/Hydra09Hybrid/Hydra09Hybrid__Google__chatgpt_early_Hydra09Hybrid_Google_C_30f4b65d5300.jpg"><img src="designs/thumb/Hydra09Hybrid/Hydra09Hybrid__Google__chatgpt_early_Hydra09Hybrid_Google_C_30f4b65d5300.jpg" height="140" title=" Google campaign"></a>
 </p>
 
-**EDM · 3**
+**EDM · 5**
 
 <p>
-<a href="designs/full/Hydra09Hybrid/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_A_860b6db8c1e5.jpg"><img src="designs/thumb/Hydra09Hybrid/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_A_860b6db8c1e5.jpg" height="140" title=" EDM campaign"></a>
-<a href="designs/full/Hydra09Hybrid/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_B_ff5eee71e707.jpg"><img src="designs/thumb/Hydra09Hybrid/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_B_ff5eee71e707.jpg" height="140" title=" EDM campaign"></a>
-<a href="designs/full/Hydra09Hybrid/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_C_b16bed8d7240.jpg"><img src="designs/thumb/Hydra09Hybrid/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_C_b16bed8d7240.jpg" height="140" title=" EDM campaign"></a>
+<a href="ads/EDM/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_h9_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_bf_h9_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_h9_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_cm_h9_EDM.jpg" height="140" title=" EDM cyber_monday"></a>
+<a href="ads/EDM/Earlier_Drafts/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_A_860b6db8c1e5_EDM_600x300.jpg"><img src="designs/thumb/own/early_legacy_chatgpt_early_Hydra09Hybrid_EDM_A_860b6db8c1e5.jpg" height="140" title=" EDM campaign"></a>
+<a href="ads/EDM/Earlier_Drafts/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_B_ff5eee71e707_EDM_600x300.jpg"><img src="designs/thumb/own/early_legacy_chatgpt_early_Hydra09Hybrid_EDM_B_ff5eee71e707.jpg" height="140" title=" EDM campaign"></a>
+<a href="ads/EDM/Earlier_Drafts/Hydra09Hybrid__EDM__chatgpt_early_Hydra09Hybrid_EDM_C_b16bed8d7240_EDM_600x300.jpg"><img src="designs/thumb/own/early_legacy_chatgpt_early_Hydra09Hybrid_EDM_C_b16bed8d7240.jpg" height="140" title=" EDM campaign"></a>
 </p>
 
-<h3 id="vertigo">VertiGo (81)</h3>
+<h3 id="vertigo">VertiGo (89)</h3>
 
 Deal · 立式新品 · 包邮
 
@@ -395,15 +427,23 @@ Deal · 立式新品 · 包邮
 <a href="designs/full/VertiGo/VertiGo__Google__chatgpt_early_VertiGo_Google_C_1d8d041258f8.jpg"><img src="designs/thumb/VertiGo/VertiGo__Google__chatgpt_early_VertiGo_Google_C_1d8d041258f8.jpg" height="140" title=" Google campaign"></a>
 </p>
 
-**EDM · 3**
+**EDM · 11**
 
 <p>
-<a href="designs/full/VertiGo/VertiGo__EDM__chatgpt_early_VertiGo_EDM_A_dc897294e39e.jpg"><img src="designs/thumb/VertiGo/VertiGo__EDM__chatgpt_early_VertiGo_EDM_A_dc897294e39e.jpg" height="140" title=" EDM campaign"></a>
-<a href="designs/full/VertiGo/VertiGo__EDM__chatgpt_early_VertiGo_EDM_B_d7768ff69fba.jpg"><img src="designs/thumb/VertiGo/VertiGo__EDM__chatgpt_early_VertiGo_EDM_B_d7768ff69fba.jpg" height="140" title=" EDM campaign"></a>
-<a href="designs/full/VertiGo/VertiGo__EDM__chatgpt_early_VertiGo_EDM_C_08a3dad7b74c.jpg"><img src="designs/thumb/VertiGo/VertiGo__EDM__chatgpt_early_VertiGo_EDM_C_08a3dad7b74c.jpg" height="140" title=" EDM campaign"></a>
+<a href="ads/EDM/01_Thanksgiving_Sale_Nov10-25/OneLaser_BFCM26_vtg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_vtg_EDM.jpg" height="140" title=" EDM thanksgiving"></a>
+<a href="ads/EDM/02_Thanksgiving_Day_Nov26/OneLaser_BFCM26_vtg_thanksgiving-day_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_vtg_thanksgiving-day_EDM.jpg" height="140" title=" EDM thanksgiving_day"></a>
+<a href="ads/EDM/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_vtg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_bf_vtg_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_vtg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_engrave_vtg_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_vtg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_gold_vtg_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_vtg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_mini_vtg_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_vtg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_tag_vtg_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_vtg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_cm_vtg_EDM.jpg" height="140" title=" EDM cyber_monday"></a>
+<a href="ads/EDM/Earlier_Drafts/VertiGo__EDM__chatgpt_early_VertiGo_EDM_A_dc897294e39e_EDM_600x300.jpg"><img src="designs/thumb/own/early_legacy_chatgpt_early_VertiGo_EDM_A_dc897294e39e.jpg" height="140" title=" EDM campaign"></a>
+<a href="ads/EDM/Earlier_Drafts/VertiGo__EDM__chatgpt_early_VertiGo_EDM_B_d7768ff69fba_EDM_600x300.jpg"><img src="designs/thumb/own/early_legacy_chatgpt_early_VertiGo_EDM_B_d7768ff69fba.jpg" height="140" title=" EDM campaign"></a>
+<a href="ads/EDM/Earlier_Drafts/VertiGo__EDM__chatgpt_early_VertiGo_EDM_C_08a3dad7b74c_EDM_600x300.jpg"><img src="designs/thumb/own/early_legacy_chatgpt_early_VertiGo_EDM_C_08a3dad7b74c.jpg" height="140" title=" EDM campaign"></a>
 </p>
 
-<h3 id="cobra">Cobra (36)</h3>
+<h3 id="cobra">Cobra (42)</h3>
 
 Deal · 罕见折扣
 
@@ -463,11 +503,75 @@ Deal · 罕见折扣
 <a href="ads/Google/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_cobra_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_cm_cobra_1.91x1.jpg" height="140" title=" 1.91x1 cyber_monday"></a>
 </p>
 
-<h3 id="brand">品牌全产品线 / Brand lineup (0)</h3>
+**EDM · 6**
+
+<p>
+<a href="ads/EDM/03_Black_Friday_Nov27-29/OneLaser_BFCM26_bf_cobra_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_bf_cobra_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/07_BF_Alt_C_Laser_Engraved/OneLaser_BFCM26_engrave_cobra_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_engrave_cobra_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/05_BF_Alt_A_Black_Gold/OneLaser_BFCM26_gold_cobra_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_gold_cobra_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/08_BF_Alt_D_Minimal_Light/OneLaser_BFCM26_mini_cobra_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_mini_cobra_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/06_BF_Alt_B_Doorbuster/OneLaser_BFCM26_tag_cobra_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_tag_cobra_EDM.jpg" height="140" title=" EDM black_friday"></a>
+<a href="ads/EDM/04_Cyber_Monday_Nov30/OneLaser_BFCM26_cm_cobra_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_cm_cobra_EDM.jpg" height="140" title=" EDM cyber_monday"></a>
+</p>
+
+<h3 id="brand">品牌全产品线 / Brand lineup (30)</h3>
 
 Best Laser Deals of 2026 · 全线一图
 
-这一组的图都不合格已删除，需要重做。 / Every image failed screening and was deleted; needs redoing.
+**Meta 1:1 · 6**
+
+<p>
+<a href="images/1x1/BFCM26_lineup_bf_1x1.png"><img src="designs/thumb/own/BFCM26_lineup_bf_1x1.jpg" height="140" title="Up to $3,000 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_lineup_bf_2k_1x1.png"><img src="designs/thumb/own/BFCM26_lineup_bf_2k_1x1.jpg" height="140" title="$2,000 (after 14 Hydra sold) 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_lineup_gold_1x1.png"><img src="designs/thumb/own/BFCM26_lineup_gold_1x1.jpg" height="140" title="Up to $3,000 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_lineup_gold_2k_1x1.png"><img src="designs/thumb/own/BFCM26_lineup_gold_2k_1x1.jpg" height="140" title="$2,000 (after 14 Hydra sold) 1x1 black_friday"></a>
+<a href="images/1x1/BFCM26_lineup_tg_1x1.png"><img src="designs/thumb/own/BFCM26_lineup_tg_1x1.jpg" height="140" title="Up to $3,000 1x1 campaign"></a>
+<a href="images/1x1/BFCM26_lineup_tg_2k_1x1.png"><img src="designs/thumb/own/BFCM26_lineup_tg_2k_1x1.jpg" height="140" title="$2,000 (after 14 Hydra sold) 1x1 campaign"></a>
+</p>
+
+**4:5 · 6**
+
+<p>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_2k_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_2k_4x5.jpg" height="140" title="$2,000 (after 14 Hydra sold) 4x5 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_4x5.jpg" height="140" title="Up to $3,000 4x5 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_2k_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_2k_4x5.jpg" height="140" title="$2,000 (after 14 Hydra sold) 4x5 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_4x5.jpg" height="140" title="Up to $3,000 4x5 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_2k_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_2k_4x5.jpg" height="140" title="$2,000 (after 14 Hydra sold) 4x5 campaign"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_Meta_1080x1350.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_4x5.jpg" height="140" title="Up to $3,000 4x5 campaign"></a>
+</p>
+
+**9:16 Story/Reels · 6**
+
+<p>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_2k_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_2k_9x16.jpg" height="140" title="$2,000 (after 14 Hydra sold) 9x16 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_9x16.jpg" height="140" title="Up to $3,000 9x16 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_2k_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_2k_9x16.jpg" height="140" title="$2,000 (after 14 Hydra sold) 9x16 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_9x16.jpg" height="140" title="Up to $3,000 9x16 black_friday"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_2k_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_2k_9x16.jpg" height="140" title="$2,000 (after 14 Hydra sold) 9x16 campaign"></a>
+<a href="ads/Meta/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_Meta_1080x1920.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_9x16.jpg" height="140" title="Up to $3,000 9x16 campaign"></a>
+</p>
+
+**Google 1.91:1 · 6**
+
+<p>
+<a href="ads/Google/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_1.91x1.jpg" height="140" title="Up to $3,000 1.91x1 black_friday"></a>
+<a href="ads/Google/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_2k_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_2k_1.91x1.jpg" height="140" title="$2,000 (after 14 Hydra sold) 1.91x1 black_friday"></a>
+<a href="ads/Google/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_1.91x1.jpg" height="140" title="Up to $3,000 1.91x1 black_friday"></a>
+<a href="ads/Google/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_2k_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_2k_1.91x1.jpg" height="140" title="$2,000 (after 14 Hydra sold) 1.91x1 black_friday"></a>
+<a href="ads/Google/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_1.91x1.jpg" height="140" title="Up to $3,000 1.91x1 campaign"></a>
+<a href="ads/Google/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_2k_Google_1200x628.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_2k_1.91x1.jpg" height="140" title="$2,000 (after 14 Hydra sold) 1.91x1 campaign"></a>
+</p>
+
+**EDM · 6**
+
+<p>
+<a href="ads/EDM/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_2k_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_2k_EDM.jpg" height="140" title="$2,000 (after 14 Hydra sold) EDM black_friday"></a>
+<a href="ads/EDM/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_bf_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_lineup_bf_EDM.jpg" height="140" title="Up to $3,000 EDM black_friday"></a>
+<a href="ads/EDM/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_2k_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_2k_EDM.jpg" height="140" title="$2,000 (after 14 Hydra sold) EDM black_friday"></a>
+<a href="ads/EDM/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_gold_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_lineup_gold_EDM.jpg" height="140" title="Up to $3,000 EDM black_friday"></a>
+<a href="ads/EDM/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_2k_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_2k_EDM.jpg" height="140" title="$2,000 (after 14 Hydra sold) EDM campaign"></a>
+<a href="ads/EDM/00_Brand_Lineup_Nov10-30/OneLaser_BFCM26_lineup_tg_EDM_600x314.jpg"><img src="designs/thumb/own/BFCM26_lineup_tg_EDM.jpg" height="140" title="Up to $3,000 EDM campaign"></a>
+</p>
 
 <h3 id="banner">官网 Banner / Site banner (24)</h3>
 
